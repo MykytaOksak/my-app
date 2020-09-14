@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MykytaOksak/my-app/static/css/main.05637082.chunk.css",
+    "main.css": "/MykytaOksak/my-app/static/css/main.d1e728cb.chunk.css",
     "main.js": "/MykytaOksak/my-app/static/js/main.b2bb76b5.chunk.js",
     "main.js.map": "/MykytaOksak/my-app/static/js/main.b2bb76b5.chunk.js.map",
     "runtime-main.js": "/MykytaOksak/my-app/static/js/runtime-main.8eebf1c8.js",
@@ -8,9 +8,9 @@
     "static/js/2.59f5cbdd.chunk.js": "/MykytaOksak/my-app/static/js/2.59f5cbdd.chunk.js",
     "static/js/2.59f5cbdd.chunk.js.map": "/MykytaOksak/my-app/static/js/2.59f5cbdd.chunk.js.map",
     "index.html": "/MykytaOksak/my-app/index.html",
-    "precache-manifest.f2d475ea4e5829d8b411b1229d4486d8.js": "/MykytaOksak/my-app/precache-manifest.f2d475ea4e5829d8b411b1229d4486d8.js",
+    "precache-manifest.068343165c8c8d48df2ed143b25533a3.js": "/MykytaOksak/my-app/precache-manifest.068343165c8c8d48df2ed143b25533a3.js",
     "service-worker.js": "/MykytaOksak/my-app/service-worker.js",
-    "static/css/main.05637082.chunk.css.map": "/MykytaOksak/my-app/static/css/main.05637082.chunk.css.map",
+    "static/css/main.d1e728cb.chunk.css.map": "/MykytaOksak/my-app/static/css/main.d1e728cb.chunk.css.map",
     "static/js/2.59f5cbdd.chunk.js.LICENSE.txt": "/MykytaOksak/my-app/static/js/2.59f5cbdd.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/MykytaOksak/my-app/static/media/banner-photo.f5443d74.jpg",
     "static/media/logo.svg": "/MykytaOksak/my-app/static/media/logo.146e2926.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.8eebf1c8.js",
     "static/js/2.59f5cbdd.chunk.js",
-    "static/css/main.05637082.chunk.css",
+    "static/css/main.d1e728cb.chunk.css",
     "static/js/main.b2bb76b5.chunk.js"
   ]
 }

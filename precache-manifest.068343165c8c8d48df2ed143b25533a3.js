@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d128139d4cfae92597943eed9d58619",
+    "revision": "a2406ac646661ca00fdf9e3303ef9f8d",
     "url": "/MykytaOksak/my-app/index.html"
   },
   {
-    "revision": "8b67b2b2cc4516a9da7d",
-    "url": "/MykytaOksak/my-app/static/css/main.05637082.chunk.css"
+    "revision": "68e20d5f8e62f8b2c422",
+    "url": "/MykytaOksak/my-app/static/css/main.d1e728cb.chunk.css"
   },
   {
     "revision": "e636cafdab87407fadb2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MykytaOksak/my-app/static/js/2.59f5cbdd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b67b2b2cc4516a9da7d",
+    "revision": "68e20d5f8e62f8b2c422",
     "url": "/MykytaOksak/my-app/static/js/main.b2bb76b5.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MykytaOksak/my-app/precache-manifest.f2d475ea4e5829d8b411b1229d4486d8.js"
+  "/MykytaOksak/my-app/precache-manifest.068343165c8c8d48df2ed143b25533a3.js"
 );
 
 self.addEventListener('message', (event) => {
